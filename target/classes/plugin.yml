@@ -1,0 +1,31 @@
+name: OpalisPlugin
+version: 1.0
+main: com.opalisplugin.OpalisPlugin
+prefix: §3Opalis
+authors: [KikalDOnuts]
+description: The official plugin of Opalis
+load: POSTWORLD
+commands:
+  rtp:
+    description: Permet de se teleporter aléatoirement
+  spawn:
+    description: TP au spawn
+  feed:
+    description: permet de se nourrir, se débloque avec le grade Fer I
+    permission: fer1.have
+  msg:
+    description: permet de mp des joueurs
+  nick:
+    description: permet de se renommer spécial admin / Star
+  prefix:
+    description: permet de se mettre un prefix
+  chat:
+    description:  permet de gerer le chat pour les admins
+  broadcast:
+    description: permet aux admins de faire une annonce
+  report:
+    description: permet de report des gens pour que les modérateur soient avertis d'un compertement BIZARRE
+  permaban:
+    description: permet de perma ban normal + ip
+  rtp:
+    description: permet de se rtp plus ou moins loin selon le rank

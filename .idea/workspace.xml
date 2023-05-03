@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="442f979b-ab91-41a4-b5dd-d9521cd0f91e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/fanciful/FancyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/fanciful/JsonRepresentedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/fanciful/JsonString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/fanciful/MessagePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/fanciful/TextualComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/util/ArrayWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/util/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/Opalis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/OpalisPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/feed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/nick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/permaban.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/rtp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/commands/spawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/customItems/CustomItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/events/Events.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/gui/ranksGUi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/gui/reportGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/gui/rtpGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/gui/verificationGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/util/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/util/ItemBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opalisplugin/util/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.8.8-R0.1-SNAPSHOT/spigot-api-1.8.8-R0.1-SNAPSHOT-sources.jar!/org/bukkit/entity/Player.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NWT42wS9Ylccym60Lqb4rUPjQ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/timot/Documents/Minecraft - Opalis/OpalisPlugin/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.opalisplugin.commands" />
+      <recent name="com.opalisplugin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\timot\Documents\Minecraft - Opalis\OpalisPlugin\src" />
+      <recent name="C:\Users\timot\Documents\Minecraft - Opalis\OpalisPlugin\src\main\java\com\opalisplugin\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build project" type="JarApplication">
+      <option name="JAR_PATH" value="$USER_HOME$/Desktop/Serv Dev/plugins/OpalisPlugin-1.0.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\timot\Documents\Minecraft - Opalis\OpalisPlugin" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442f979b-ab91-41a4-b5dd-d9521cd0f91e" name="Changes" comment="" />
+      <created>1679778643556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679778643556</updated>
+    </task>
+    <servers />
+  </component>
+</project>
